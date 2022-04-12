@@ -8,19 +8,18 @@ To evaluate and optimize several different supervised learning models to determi
 
 - Data exploration
 - Feature normalization and scaling
-- One-hot encoding categorical variables
+- One-hot encoding
 - Machine Learning Modeling
 - Model performance evaluation
 - Grid Search model tuning
-- Extracting model predictor feature importance
+- Feature importance extraction
 
-### Algortihms Used
+### Algorithms Used
 
 1. Naive Bayes
 2. Gradient Boosting
 3. Support Vector Machine
 
-## Guide Lines
 ### Packages and Tools Required:
 ```
 Numpy
