@@ -1,4 +1,4 @@
-# Finding donors for a fictitious company using Machine Learning
+# Finding donors using Machine Learning
 
 ## Objective
 
