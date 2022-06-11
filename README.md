@@ -30,9 +30,9 @@ Jupyter Notebook
 ```
 ### Package Installation
 ```
-pip install numpy
-pip install pandas
-pip install matplotlib
-pip install scikit-learn
-pip install jupyter notebook
+pip install numpy==1.21.5
+pip install pandas==1.4.2
+pip install matplotlib==3.5.1
+pip install scikit_learn==1.1.1
+pip install jupyter notebook==6.4.11
 ```
