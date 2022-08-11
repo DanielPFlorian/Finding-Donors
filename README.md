@@ -1,8 +1,11 @@
-# Finding donors using Machine Learning
+#finding-donors
 
-## Objective
-
-To evaluate and optimize several different supervised learning models to determine which algorithm will best identify potential donors and reduce overhead cost of sending mail
+finding-donors employs several supervised learning algorithms to accurately model
+individuals' income using data collected from the 1994 U.S. Census. The goal is
+to accurately predict whether an individual makes more than $50,000 in order to
+reduce an organizations overhead cost of sending mail to potential donors. The 
+models are evaluated and optimized to determine which algorithm yields the
+greatest accuracy.
 
 ### Techniques Used
 
