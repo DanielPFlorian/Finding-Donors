@@ -1,6 +1,6 @@
 # finding-donors
 
-**finding-donors** employs several supervised machine learning algorithms to
+**Finding-Donors** employs several supervised machine learning algorithms to
 accurately model individuals' income using data collected from the 1994 U.S.
 Census. The goal is to accurately predict whether an individual makes more than
 $50,000 in order to reduce an organizations overhead cost of sending mail to
