@@ -1,4 +1,4 @@
-# finding-donors
+# Finding-Donors
 
 **Finding-Donors** employs several supervised machine learning algorithms to
 accurately model individuals' income using data collected from the 1994 U.S.
